@@ -1,0 +1,30 @@
+body{
+	padding: 0;
+	margin: 0 auto;
+	 text-align:center;
+	 background-color:#494f65;
+	 width: 1200px
+
+    }
+.main{
+	 
+    }
+.one{
+		border: 2px solid;
+       	background:#9AA4CC;
+		width:33%;
+		height:85px;
+		float:left;
+	  }
+.two{	border: 2px solid;
+       	background:#5c70ec;
+		width:33%;
+		height:85px;
+		float:left;
+	  }
+.three{border: 2px solid;
+       	background: #7d85b9;;
+		width:33%;
+		height:85px;
+		float:left;
+	}
